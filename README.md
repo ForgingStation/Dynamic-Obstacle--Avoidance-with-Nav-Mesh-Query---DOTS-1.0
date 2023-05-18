@@ -1,4 +1,4 @@
-# Dynamic-Obstable-Avoidance-with-Nav-Mesh-Query---DOTS-1.0
+# Dynamic-Obstacle-Avoidance-with-Nav-Mesh-Query---DOTS-1.0
 Source code for the video - https://youtu.be/EhwmQZzc8ns
 
 Hey everyone. Coming back after a while now! In this video, I have upgraded the most requested, Navmesh query-based pathfinding to the DOTS 1.0 version. 
